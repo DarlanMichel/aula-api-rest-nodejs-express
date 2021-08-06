@@ -1,0 +1,27 @@
+{
+  "name": "aula-rest-nodejs-api-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarlanMichel/aula-api-rest-nodejs-express.git"
+  },
+  "author": "Darlan Michel da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarlanMichel/aula-api-rest-nodejs-express/issues"
+  },
+  "homepage": "https://github.com/DarlanMichel/aula-api-rest-nodejs-express#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
